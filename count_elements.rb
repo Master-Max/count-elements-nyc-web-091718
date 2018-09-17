@@ -1,3 +1,4 @@
 def count_elements(array)
-  # code goes here
+  animals_hash = {}
+  
 end
