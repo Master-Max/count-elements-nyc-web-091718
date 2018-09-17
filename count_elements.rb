@@ -8,7 +8,7 @@ def count_elements(array)
         count += 1
       end
     end
-    animals_hash[animal] => count
+    animals_hash[animal] = count
   end
   animals_hash
 end
